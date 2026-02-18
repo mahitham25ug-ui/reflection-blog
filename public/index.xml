@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 27 Jan 2026 22:52:01 -0800</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Heyy! Mahitha here!&#xA;Visit the &lt;a href=&#34;https://gohugo&#34;&gt;hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;reflection-blog&#34;&gt;REFLECTION BLOG&lt;/h1&gt;&#xA;&lt;p&gt;Hello Everyone,&lt;/p&gt;&#xA;&lt;p&gt;Mahitha here! I am a student at Azim Premji University. I am doing my major in BSc Information Science. I am writing this blog to reflect on my classroom discussions and  also share some of my learning experiences.&lt;/p&gt;&#xA;&lt;p&gt;I am a person who loves to learn new things, but at sometimes, i feel nervous when it comes to learning technical subjects like information science. But my strong will for not giving up, helps me in understanding the subject step by step.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
