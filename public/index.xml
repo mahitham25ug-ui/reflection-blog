@@ -6,10 +6,17 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2026 21:00:50 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 07:01:52 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Unit_4_reflection_blog</title>
+      <title>Unit 5 Reflectionblog</title>
+      <link>http://localhost:1313/posts/unit-5-reflectionblog/</link>
+      <pubDate>Mon, 11 May 2026 07:01:52 -0700</pubDate>
+      <guid>http://localhost:1313/posts/unit-5-reflectionblog/</guid>
+      <description>&lt;h1 id=&#34;unit-5-reflection&#34;&gt;UNIT 5 REFLECTION&lt;/h1&gt;&#xA;&lt;p&gt;I would like to write my reflection blog of Unit 5 about the presentation by Group no. 4, which was about the experiences of women in the field of computer science. Among all nine presentations, this was the one that I found interesting. They discussed the history where there were many contributions of women in various fields of computer science, and also explained how these are dominated now by men. Their way of presenting the topic was more attention-grabbing. They also discussed the challenges faced by women in computing-related fields. They explained how society and culture have an influence on women emerging in computing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unit 4 reflection blog</title>
       <link>http://localhost:1313/posts/unit_4_reflection_blog/</link>
       <pubDate>Sun, 10 May 2026 21:00:50 -0700</pubDate>
       <guid>http://localhost:1313/posts/unit_4_reflection_blog/</guid>
