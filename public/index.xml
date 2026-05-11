@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Apr 2026 02:45:51 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 21:00:50 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit_4_reflection_blog</title>
+      <link>http://localhost:1313/posts/unit_4_reflection_blog/</link>
+      <pubDate>Sun, 10 May 2026 21:00:50 -0700</pubDate>
+      <guid>http://localhost:1313/posts/unit_4_reflection_blog/</guid>
+      <description>&lt;h1 id=&#34;unit-4-reflection&#34;&gt;UNIT 4 REFLECTION&lt;/h1&gt;&#xA;&lt;p&gt;Working with the two projects felt really interesting as it was different from what we usually do in our lab sessions. The most interesting part was us exploring the tools on our own without any provided guidelines. At first, I thought that working alone would be hard, but the process was really interesting as we could go through most of the features possible of the tool. And I think that working with proper guidelines would not give us as much fun as we had because if there are guidelines, we would only explore the mentioned features of the tool rather than exploring as a whole as we did.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Unit 3 Reflectionblog</title>
       <link>http://localhost:1313/posts/unit-3-reflectionblog/</link>
@@ -20,7 +27,7 @@
       <link>http://localhost:1313/posts/unit-2-reflection-blog/</link>
       <pubDate>Mon, 16 Mar 2026 09:25:51 -0700</pubDate>
       <guid>http://localhost:1313/posts/unit-2-reflection-blog/</guid>
-      <description>&lt;h2 id=&#34;unit-2---reflection&#34;&gt;UNIT 2 - REFLECTION&lt;/h2&gt;&#xA;&lt;p&gt;Unit 2 was difficult as well as an interesting unit. The most interesting session of the unit was learning about &lt;em&gt;&lt;strong&gt;images&lt;/strong&gt;&lt;/em&gt;. This session helped us know more on how an image is represented in computers and how to calculate the memory required to store an image as well as videos. The idea that the range of colours having different intensity values which is represented as numbers was a new learning for me from the unit. And further, the labs helped me more on understanding the concept better. Through labs we also learned how different filters such as rotations, reflections and translations work on images.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;unit-2---reflection&#34;&gt;UNIT 2 - REFLECTION&lt;/h2&gt;&#xA;&lt;p&gt;Unit 2 was difficult as well as an interesting unit. The most interesting session of the unit was learning about &lt;em&gt;&lt;strong&gt;images&lt;/strong&gt;&lt;/em&gt;. This session helped us know more on how an image is represented in computers and how to calculate the memory required to store an image as well as videos. The idea that the range of colours having different intensity values which is represented with numbers was a new learning for me from the unit. And further, the labs helped me more on understanding the concept better. Through labs we also learned how different filters such as rotations, reflections and translations work on images.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unit 1 Reflection Blog</title>

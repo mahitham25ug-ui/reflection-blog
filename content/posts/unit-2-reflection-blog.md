@@ -6,7 +6,7 @@ title = 'Unit 2 Reflection Blog'
 
 ## UNIT 2 - REFLECTION
 
-Unit 2 was difficult as well as an interesting unit. The most interesting session of the unit was learning about _**images**_. This session helped us know more on how an image is represented in computers and how to calculate the memory required to store an image as well as videos. The idea that the range of colours having different intensity values which is represented as numbers was a new learning for me from the unit. And further, the labs helped me more on understanding the concept better. Through labs we also learned how different filters such as rotations, reflections and translations work on images. 
+Unit 2 was difficult as well as an interesting unit. The most interesting session of the unit was learning about _**images**_. This session helped us know more on how an image is represented in computers and how to calculate the memory required to store an image as well as videos. The idea that the range of colours having different intensity values which is represented with numbers was a new learning for me from the unit. And further, the labs helped me more on understanding the concept better. Through labs we also learned how different filters such as rotations, reflections and translations work on images. 
 
 We also learnt about _**number system**_ and _**conversion**_ from one number system to other in the unit. The four number systems we learned about was binary number system, decimal number system, octal number system and hexadecimal number system. I found number system conversions much easier than the other concepts that we learned in unit 2. 
 
